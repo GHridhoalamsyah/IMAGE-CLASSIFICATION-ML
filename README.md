@@ -1,2 +1,3 @@
 # IMAGE-CLASSIFICATION-ML
-IMAGE CLASSIFICATION 
+
+image classification menggunakan CNN 
